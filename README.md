@@ -2,7 +2,7 @@
 
 A lambda calculus REPL (named after the creator of the lambda calculus, Alonzo Church).
 
-- Running `Alonzo` is as simple as `./run.sh`.
+- Invoke `run.sh` to enter the REPL.
 
 ### Top level features:
 - Type `:q` to quit and `:d` to enter the debugger.
